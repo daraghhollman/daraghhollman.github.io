@@ -1,0 +1,77 @@
+/*variables*/
+:root {
+   --bg:  #0e1419; 
+   --fg:  #e5e1cf;   
+   --bar: #e6c446;
+   --horiz-margin: 300px;
+}
+
+html, body {
+   margin: 0;
+   padding: 0;
+
+   background-color: var(--bg);
+} 
+/*header style*/
+header {
+   text-align: center; 
+   Padding: 20px;
+   font-family: "Courier New";
+
+   background-color: var(--bg);
+   color: var(--fg);
+}
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 100px;
+   padding: 10px;
+   margin-left: var(--horiz-margin);
+   margin-right: var(--horiz-margin);
+
+   background-color: var(--bar);
+}
+nav a {
+   color: var(--bg);
+   text-decoration: none;
+   font-size: larger;
+   font-family: "Courier New";
+   font-weight: bold;
+}
+
+.profile {
+   flex: 70%;
+   padding: 20px;
+   font-family: "Courier New";
+   margin-left: var(--horiz-margin);
+   margin-right: var(--horiz-margin);
+
+   background-color: var(--bg);
+   color: var(--fg);
+}
+/*profile image and heading style*/
+.profile img {
+   width: 120px;
+   display: block;
+   margin-left: 0;
+   margin-right: 0;
+}
+.profile h1 {
+   text-align: center;
+}
+footer {
+   text-align: center; 
+   word-spacing: 30px;
+   Padding: 10px;
+   font-family: "Courier New";
+
+   margin: var(--horiz-margin);
+   background-color: var(--bar);
+}
+footer a{
+   color: var(--bg);
+   text-decoration: none;
+   font-size: larger;
+   font-family: "Courier New";
+   font-weight: bold;
+}
