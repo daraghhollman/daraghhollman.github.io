@@ -3,7 +3,7 @@
    --bg:  #0e1419; 
    --fg:  #e5e1cf;   
    --bar: #e6c446;
-   --horiz-margin: 300px;
+   --horiz-margin: 100px;
 }
 
 html, body {
@@ -49,16 +49,30 @@ nav a {
    background-color: var(--bg);
    color: var(--fg);
 }
-/*profile image and heading style*/
-.profile img {
-   width: 120px;
+.profile h1 {
+   text-align: center;
+}
+
+.flex-container {
+   display: flex;
+   margin-left: 100px;
+   margin-right: 100px;
+}
+
+.flex-container > div {
+   margin: 10px;
+   padding: 20px;
+   font-size: 20px;
+}
+
+.flex-container img {
+   width: 300px;
    display: block;
    margin-left: 0;
    margin-right: 0;
 }
-.profile h1 {
-   text-align: center;
-}
+
+
 footer {
    text-align: center; 
    word-spacing: 30px;
