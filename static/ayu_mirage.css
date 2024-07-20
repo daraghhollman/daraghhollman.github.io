@@ -1,0 +1,20 @@
+:root {
+    /* Basics */
+    --bg:           #1F2430;
+    --bg-alternate: #171B24;
+    --shadow:       #12151C;
+    --selection:    #697598;
+    --fg:           #707A8C;
+    
+    /* Colours */
+    --dark-red:     #FF6666;
+    --red:          #F28779;
+    --orange:       #FFAD66;
+    --yellow:       #FFD173;
+    --light-green:  #D5FF80;
+    --green:        #87D86C;
+    --turquoise:    #95e6cb;
+    --blue:         #73D0FF;
+    --purple:       #DFBFFF;
+    --dark-purple:  #695380;
+}

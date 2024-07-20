@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Daragh Hollman</title>
+	<link>http://localhost:1313/photos/</link>
+	<description>Recent content in Photos on Daragh Hollman</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Fri, 19 Jul 2024 16:46:38 +0100</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a recent graduate in Physics with Astronomy and Space Science from University College Dublin. I&amp;rsquo;m particularly interested in computing, and its applications to the field.&lt;/p&gt;
+&lt;p&gt;From September, I am starting a PhD with the Planetary Magnetospheres group at the Dublin Institute for Advanced Studies. I will be studying Mercury&amp;rsquo;s magnetosphere and its interaction with the solar environment through analysis of large data sets from the MESSENGER mission, and upon its arrival, BepiColombo.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;My research interests are&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
+&lt;p&gt;Outside of my research, I do lots of other hobbies! I love the outdoors.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Gallery</title>
+		<link>http://localhost:1313/gallery/</link>
+		<pubDate>Sat, 20 Jul 2024 12:50:10 +0100</pubDate>
+		
+		<guid>http://localhost:1313/gallery/</guid>
+		<description>&lt;h1 id=&#34;gallery&#34;&gt;Gallery&lt;/h1&gt;
+&lt;p&gt;A collection of my photos.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>JUPT</title>
+		<link>http://localhost:1313/projects/jupt/</link>
+		<pubDate>Sat, 20 Jul 2024 13:03:05 +0100</pubDate>
+		
+		<guid>http://localhost:1313/projects/jupt/</guid>
+		<description>&lt;h1 id=&#34;juno-universal-plotting-tool-jupt&#34;&gt;Juno Universal Plotting Tool (JUPT)&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Two Crows</title>
+		<link>http://localhost:1313/photos/twocrows/twocrows/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/photos/twocrows/twocrows/</guid>
+		<description></description>
+	</item>
+	
+	</channel>
+</rss>
