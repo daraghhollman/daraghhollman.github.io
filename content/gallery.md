@@ -2,13 +2,13 @@
 title = 'Gallery'
 date = 2024-07-20T12:50:10+01:00
 menu = "main"
-weight = 4
+weight = 5
 nextprev = false
 +++
 
 # Gallery
 
-A collection of my photos, ordered by date.
+A collection of some of the photos I've taken. I don't have a camera at the moment so primarily use my phone (a Samsung Galaxy A52) to take pictures, although, I have had the opportunity to borrow nicer cameras. If I have done so, I will put the camera used, and the relevant settings in the caption.
 
 ## 2024
 

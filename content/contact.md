@@ -2,7 +2,7 @@
 title = 'Contact'
 date = 2024-07-20T16:28:09+01:00
 menu = "main"
-weight = 5
+weight = 6
 nextprev = false
 +++
 
@@ -16,4 +16,4 @@ You will also find me on the following sites:
 - [LinkedIn](https://www.linkedin.com/in/daraghhollman/)
 - [Instagram](https://www.instagram.com/daragh_hollman/)
 
-I am currently not searching for work, however my CV is available [here](/documents/cv.pdf).
+I am currently not searching for work, however my CV is available [here](/documents/AcademicCV.pdf).

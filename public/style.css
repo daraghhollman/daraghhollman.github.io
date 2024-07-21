@@ -82,6 +82,10 @@ header .active {
     color: var(--light-shade);
 }
 
+.horizontal-tags {
+    display: inline-block;
+}
+
 a:link {
     text-decoration: none;
 }
