@@ -10,8 +10,6 @@ nextprev = false
 
 ## Hey, I'm Daragh! 👋
 
-![Profile Picture](/profilePicture.jpg)
+![](/photos/profilePicture.jpg)
 
 I'm an incoming PhD student at the Dublin Institute for Advanced Studies, specialising in Mercury's magnetosphere!
-
-I'm a Government of Ireland Postgraduate Scholar, funded by the Irish Research Council. I have recently graduated from UCD with first class honours, BSc. Physics with Astonomy and Space Science.

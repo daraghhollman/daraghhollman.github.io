@@ -10,7 +10,7 @@ body {
     font-family: sans-serif;
     background: var(--light-shade);
     color: var(--dark-shade);
-    margin: 0%;
+    margin: 0;
     font-size: 20px
 }
 
@@ -28,7 +28,7 @@ h1 {
 img {
     max-width: 100%;
     float: right;
-    padding-left: 5%;
+    margin-left: 5%;
 }
 
 figure {
@@ -40,6 +40,7 @@ figure figcaption {
     background-color: var(--light-accent);
     color: var(--dark-shade);
     text-align: center;
+    margin-top: 2%
 }
 
 header {
@@ -56,6 +57,7 @@ header h1 {
 header ul {
     list-style: none;
     text-align: center;
+    padding-left: 0;
 }
 
 header li {

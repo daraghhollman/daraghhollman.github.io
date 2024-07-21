@@ -1,0 +1,116 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Daragh Hollman</title>
+	<link>http://localhost:1313/tags/science/</link>
+	<description>Recent content in Science on Daragh Hollman</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 20 Jul 2024 13:03:05 +0100</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Fri, 19 Jul 2024 16:46:38 +0100</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;From Dublin etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Give outline of career to date I guess&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a recent graduate in Physics with Astronomy and Space Science from University College Dublin. I&amp;rsquo;m particularly interested in computing, and its applications to the field.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;My research interests are&amp;hellip; maths and programming in space science.&lt;/p&gt;
+&lt;p&gt;From September, I am starting a PhD with the Planetary Magnetospheres group at the Dublin Institute for Advanced Studies. I will be studying Mercury&amp;rsquo;s magnetosphere and its interaction with the solar environment through analysis of large data sets from the MESSENGER mission, and upon its arrival, BepiColombo.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a Government of Ireland Postgraduate Scholar, fully funded by the Irish Research Council. I have recently graduated from UCD with first class honours, BSc. Physics with Astonomy and Space Science.&lt;/p&gt;
+&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
+&lt;p&gt;Outside of my research, I do lots of other hobbies! I love the outdoors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Whitewater and Sea kayaking&lt;/li&gt;
+&lt;li&gt;Hiking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also have a huge interest in music, and play the piano and electric guitar!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Gallery</title>
+		<link>http://localhost:1313/gallery/</link>
+		<pubDate>Sat, 20 Jul 2024 12:50:10 +0100</pubDate>
+		
+		<guid>http://localhost:1313/gallery/</guid>
+		<description>&lt;h1 id=&#34;gallery&#34;&gt;Gallery&lt;/h1&gt;
+&lt;p&gt;A collection of my photos, ordered by date.&lt;/p&gt;
+&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;h3 id=&#34;december&#34;&gt;December&lt;/h3&gt;
+
+&lt;figure class=&#34;gallery-img&#34;&gt;&lt;a href=&#34;http://localhost:1313/photos/sadbhBray.jpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/sadbhBray.jpg&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;2021-12-09 : Bray with Sadbh.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;june&#34;&gt;June&lt;/h3&gt;
+
+&lt;figure class=&#34;gallery-img&#34;&gt;&lt;a href=&#34;http://localhost:1313/photos/moon2021.jpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/moon2021.jpg&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;2021-06-15 : Crescent moon from Dublin.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&#34;january&#34;&gt;January&lt;/h3&gt;
+
+&lt;figure class=&#34;gallery-img&#34;&gt;&lt;a href=&#34;http://localhost:1313/photos/twoCrows.jpg&#34;&gt;&lt;img src=&#34;http://localhost:1313/photos/twoCrows.jpg&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;2021-01-08 : Two Crows sit on a railing overlooking Ireland&amp;#39;s Eye.&lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Contact</title>
+		<link>http://localhost:1313/contact/</link>
+		<pubDate>Sat, 20 Jul 2024 16:28:09 +0100</pubDate>
+		
+		<guid>http://localhost:1313/contact/</guid>
+		<description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact me!&lt;/h1&gt;
+&lt;p&gt;Please don&amp;rsquo;t hesitate to contact me with any queries! You can reach me at the following email address:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:dhollman@cp.dias.ie&#34;&gt;dhollman@cp.dias.ie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will also find me on the following sites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/daraghhollman/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/daraghhollman/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/daragh_hollman/&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am currently not searching for work, however my CV is available &lt;a href=&#34;http://localhost:1313/documents/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Horizons Wallpaper</title>
+		<link>http://localhost:1313/projects/horizons-wallpaper/</link>
+		<pubDate>Sat, 20 Jul 2024 20:08:30 +0100</pubDate>
+		
+		<guid>http://localhost:1313/projects/horizons-wallpaper/</guid>
+		<description>&lt;h1 id=&#34;horizons-wallpaper&#34;&gt;Horizons Wallpaper&lt;/h1&gt;
+&lt;p&gt;A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.&lt;/p&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/photos/horizons-wallpaper.jpg&#34;&gt;&lt;figcaption&gt;A sample output from the script.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates. These are then drawn to an image (flattened to the ecliptic) and saved as a png or jpg to a path of your chosing.&lt;/p&gt;
+&lt;p&gt;The idea being: if you ran this script every day, and automatically updated your wallpaper, you would essentially have a live wallpaper of the positions of planets, asteroids, and spacecraft.&lt;/p&gt;
+&lt;p&gt;Horizons Wallpaper is published on &lt;a href=&#34;https://github.com/daraghhollman/horizons-wallpaper&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>JUPT</title>
+		<link>http://localhost:1313/projects/jupt/</link>
+		<pubDate>Sat, 20 Jul 2024 13:03:05 +0100</pubDate>
+		
+		<guid>http://localhost:1313/projects/jupt/</guid>
+		<description>&lt;h1 id=&#34;juno-universal-plotting-tool-jupt&#34;&gt;Juno Universal Plotting Tool (JUPT)&lt;/h1&gt;
+&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;
+&lt;p&gt;In the summer of 2023, together with the &lt;a href=&#34;https://www.dias.ie/cosmicphysics/astrophysics/astro-research/astro-planetary-magnetospheres/&#34;&gt;DIAS Planetary Magnetospheres group&lt;/a&gt;, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).&lt;/p&gt;
+&lt;p&gt;This Juno data plotting tool (named JUPT - Juno Universal Plotting Tool) is the first public open access tool to make the comparison between data from different instruments - including a magnetometer (MAG), plasma (JADE), energetic particles (JEDI), and radio wave (WAVES) instruments. This flexible tool we developed allows for the creation of publication-ready multi-panel plots through the automatic source of data and acompanying spacecraft ephemeris information.&lt;/p&gt;
+&lt;p&gt;JUPT is incredibly useful for those studying Jupiter&amp;rsquo;s space environment as it makes data visualisation quick and easy, so that researchers can spend less time on coding and plotting, and more time on science.&lt;/p&gt;
+&lt;p&gt;JUPT is published on &lt;a href=&#34;https://github.com/daraghhollman/JUPT&#34;&gt;Github&lt;/a&gt; and &lt;a href=&#34;https://zenodo.org/record/8262477&#34;&gt;Zenodo&lt;/a&gt;, with documentation published with &lt;a href=&#34;https://jupt.readthedocs.io/en/latest/&#34;&gt;ReadTheDocs&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
