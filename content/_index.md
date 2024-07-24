@@ -17,5 +17,5 @@ I'm passionate about computational science and its applications to physics and s
 I'm an incoming PhD student at the Dublin Institute for Advanced Studies, specialising in Mercury's magnetosphere!
 
 Take a look at what I've been working on!
-* [JUPT](/projects/JUPT)
+* [JUPT](/projects/jupt)
 * [Horizons Wallpaper](/projects/horizons-wallpaper)
