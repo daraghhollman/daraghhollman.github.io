@@ -19,6 +19,3 @@ I'm an incoming PhD student at the Dublin Institute for Advanced Studies, specia
 Take a look at what I've been working on!
 * [JUPT](/projects/JUPT)
 * [Horizons Wallpaper](/projects/horizons-wallpaper)
-
-Tags:
-{{< tagcloud >}}
