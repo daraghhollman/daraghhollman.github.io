@@ -1,12 +1,6 @@
 +++
 title = 'Contact'
-date = 2024-07-20T16:28:09+01:00
-menu = "main"
-weight = 6
-nextprev = false
 +++
-
-# Contact me!
 
 Please don't hesitate to contact me with any queries! You can reach me at the following email address:
 - dhollman@cp.dias.ie

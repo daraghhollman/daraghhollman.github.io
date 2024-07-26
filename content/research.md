@@ -1,12 +1,7 @@
 +++
-title = 'Research'
+title = 'My Research'
 date = 2024-07-19T16:46:38+01:00
-menu = "main"
-weight = 3
-nextprev = false
 +++
-
-# My Research
 
 ## Publications
 

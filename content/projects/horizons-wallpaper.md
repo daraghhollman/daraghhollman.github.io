@@ -1,14 +1,12 @@
 +++
 title = 'Horizons Wallpaper'
-date = 2024-07-20T20:08:30+01:00
+date = 2023-04-24
 tags = ["art", "python", "software"]
 +++
 
-# Horizons Wallpaper
-
 A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.
 
-{{< img src=/photos/horizons-wallpaper.jpg caption="A sample output from the script.">}}
+{{< img src=/images/horizons-wallpaper.jpg caption="A sample output from the script.">}}
 
 This script queries the API of NASA JPL's Horizons System to obtain orbital positions in cartesian coorinates. These are then drawn to an image (flattened to the ecliptic) and saved as a png or jpg to a path of your chosing.
 

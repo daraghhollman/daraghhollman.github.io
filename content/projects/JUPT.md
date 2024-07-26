@@ -1,12 +1,8 @@
 +++
-title = 'JUPT'
-date = 2024-07-20T13:03:05+01:00
+title = 'Juno Universal Plotting Tool (JUPT)'
+date = 2023-08-08
 tags = ["python", "science", "software"]
 +++
-
-# Juno Universal Plotting Tool (JUPT)
-
-## Outline
 
 In the summer of 2023, together with the [DIAS Planetary Magnetospheres group](https://www.dias.ie/cosmicphysics/astrophysics/astro-research/astro-planetary-magnetospheres/), I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).
 
@@ -15,3 +11,5 @@ This Juno data plotting tool (named JUPT - Juno Universal Plotting Tool) is the 
 JUPT is incredibly useful for those studying Jupiter's space environment as it makes data visualisation quick and easy, so that researchers can spend less time on coding and plotting, and more time on science.
 
 JUPT is published on [Github](https://github.com/daraghhollman/JUPT) and [Zenodo](https://zenodo.org/record/8262477), with documentation published with [ReadTheDocs](https://jupt.readthedocs.io/en/latest/).
+
+{{< img src=/images/jupt.png caption="A sample output of the tool" >}}
