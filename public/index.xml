@@ -2,32 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Daragh Hollman</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Home on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2024 15:04:48 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Fri, 26 Jul 2024 15:04:48 +0100</pubDate>
-      
-      <guid>//localhost:1313/about/</guid>
-      
-        <description>Bio From Dublin etc…
-Give outline of career to date I guess
-I have recently graduated from UCD with first class honours, BSc. Physics with Astronomy and Space Science. I’m particularly interested in computing, and its applications to the field.
-Research Interests My research interests are… maths and programming in space science.
-From September, I am starting a PhD with the Planetary Magnetospheres group at the Dublin Institute for Advanced Studies.</description>
-      
-    </item>
-    
+    <lastBuildDate>Fri, 19 Jul 2024 16:46:38 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Research</title>
-      <link>//localhost:1313/research/</link>
+      <link>/research/</link>
       <pubDate>Fri, 19 Jul 2024 16:46:38 +0100</pubDate>
       
-      <guid>//localhost:1313/research/</guid>
+      <guid>/research/</guid>
       
         <description>Publications Articles Upcoming: I have no articles published as of yet, however, during my time as an intern at DIAS, I helped develop data visualisation routines for a statistical study of machine learning detections in radio spectrogreams from Cassini (previously in orbit around Saturn). I developed Python routines to make clear and concise plots of these detections and their locations and distributions relative to Saturn and its magnetosphere. These plots and derived results will feature in a paper led by C.</description>
       
@@ -35,10 +20,10 @@ From September, I am starting a PhD with the Planetary Magnetospheres group at t
     
     <item>
       <title>Juno Universal Plotting Tool (JUPT)</title>
-      <link>//localhost:1313/projects/jupt/</link>
+      <link>/projects/jupt/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/jupt/</guid>
+      <guid>/projects/jupt/</guid>
       
         <description>In the summer of 2023, together with the DIAS Planetary Magnetospheres group, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).
 This Juno data plotting tool (named JUPT - Juno Universal Plotting Tool) is the first public open access tool to make the comparison between data from different instruments - including a magnetometer (MAG), plasma (JADE), energetic particles (JEDI), and radio wave (WAVES) instruments.</description>
@@ -47,10 +32,10 @@ This Juno data plotting tool (named JUPT - Juno Universal Plotting Tool) is the 
     
     <item>
       <title>Horizons Wallpaper</title>
-      <link>//localhost:1313/projects/horizons-wallpaper/</link>
+      <link>/projects/horizons-wallpaper/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/horizons-wallpaper/</guid>
+      <guid>/projects/horizons-wallpaper/</guid>
       
         <description>A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.
 A sample output from the script. This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates. These are then drawn to an image (flattened to the ecliptic) and saved as a png or jpg to a path of your chosing.
@@ -59,11 +44,25 @@ The idea being: if you ran this script every day, and automatically updated your
     </item>
     
     <item>
-      <title>Abstracts</title>
-      <link>//localhost:1313/abstracts/</link>
+      <title>About Me</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/abstracts/</guid>
+      <guid>/about/</guid>
+      
+        <description>Bio Born and still living in Dublin. Irish and Dutch nationalities.
+I&amp;rsquo;m very active and outgoing.
+Research Interests I have recently graduated from UCD with first class honours, BSc. Physics with Astronomy and Space Science. I’m particularly interested in computing, and its applications to the field.
+From September, I am starting a PhD with the Planetary Magnetospheres group at the Dublin Institute for Advanced Studies. I will be studying Mercury’s magnetosphere and its interaction with the solar environment through analysis of large data sets from the MESSENGER mission, and upon its arrival, BepiColombo.</description>
+      
+    </item>
+    
+    <item>
+      <title>Abstracts</title>
+      <link>/abstracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/</guid>
       
         <description>May 2024 JUPT: A new open-source plotting tool for Juno
 Poster at the 3rd Outer Planet Moon-Magnetosphere Interaction Workshop
@@ -74,10 +73,10 @@ Poster at the Irish National Astronomy Meeting</description>
     
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       
         <description>Please don&amp;rsquo;t hesitate to contact me with any queries! You can reach me at the following email address:
 dhollman@cp.dias.ie You will also find me on the following sites:
@@ -87,10 +86,10 @@ Github LinkedIn Instagram I am currently not searching for work, however my CV i
     
     <item>
       <title>Gallery</title>
-      <link>//localhost:1313/gallery/</link>
+      <link>/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/gallery/</guid>
+      <guid>/gallery/</guid>
       
         <description>A collection of some of the photos I&amp;rsquo;ve taken. I don&amp;rsquo;t have a camera at the moment so primarily use my phone (a Samsung Galaxy A52) to take pictures, although, I have had the opportunity to borrow nicer cameras. If I have done so, I will put the camera used, and the relevant settings in the caption.
 2024 May 2024-05-26 : Sunset over the Soča river, Slovenia. March 2024-03-10 : The 3.</description>
@@ -99,10 +98,10 @@ Github LinkedIn Instagram I am currently not searching for work, however my CV i
     
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publications/</guid>
+      <guid>/publications/</guid>
       
         <description>Articles Upcoming:
 I have no articles published as of yet, however, during my time as an intern at DIAS, I helped develop data visualisation routines for a statistical study of machine learning detections in radio spectrogreams from Cassini (previously in orbit around Saturn). I developed Python routines to make clear and concise plots of these detections and their locations and distributions relative to Saturn and its magnetosphere. These plots and derived results will feature in a paper led by C.</description>

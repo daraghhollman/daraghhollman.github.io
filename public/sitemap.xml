@@ -2,47 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2024-07-26T15:04:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-07-26T15:04:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/research/</loc>
+    <loc>/</loc>
     <lastmod>2024-07-19T16:46:38+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/jupt/</loc>
+    <loc>/research/</loc>
+    <lastmod>2024-07-19T16:46:38+01:00</lastmod>
+  </url><url>
+    <loc>/projects/jupt/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/science/</loc>
+    <loc>/tags/science/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/software/</loc>
+    <loc>/tags/software/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/art/</loc>
+    <loc>/tags/art/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/horizons-wallpaper/</loc>
+    <loc>/projects/horizons-wallpaper/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/abstracts/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/abstracts/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/gallery/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>/gallery/</loc>
+  </url><url>
+    <loc>/publications/</loc>
   </url>
 </urlset>
