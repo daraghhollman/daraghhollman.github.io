@@ -16,7 +16,7 @@ A collection of some of the photos I've taken. I don't have a camera at the mome
 
 ### January
 
-{{< img src=/photos/cooley-famine-village.jpg caption="2024-01-15 : Sunset at the famine village, Cooley Peninsula." >}}
+{{< img src=/photos/cooley-famine-village.jpg caption="2024-01-15 : Sunset at the Deserted Village in Barnavave, Cooley Peninsula." >}}
 
 ## 2021
 
