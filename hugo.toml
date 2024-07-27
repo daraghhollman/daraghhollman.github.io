@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Daragh Hollman'
 
 theme = "anatole"
+summaryLength = 30
 
 [params]
 title = "Daragh Hollman"
@@ -15,6 +16,8 @@ Kayaker
 profilePicture = "images/profilePicture.jpg"
 reversepagetitle = true # When set to 'true', the Window Title will be reversed to 'Title | Author' instead of the default 'Author | Title'
 contentratio = 0.73
+readMore = true
+customCss = ["css/custom.css"]
 
     [[params.socialIcons]]
     icon = "fab fa-github"

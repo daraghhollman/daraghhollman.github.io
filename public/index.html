@@ -6,7 +6,7 @@
   
     class="html theme--light"
   
-><head>
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <title>
     
@@ -47,6 +47,16 @@ Kayaker
     type="text/css"
   />
   
+    
+    
+    <link
+      rel="stylesheet"
+      href="/css/custom.min.75c7a151edc30fbf10bde76052d75f2579a8c5ef822cafdc891fdcec001a36f5.css"
+      integrity="sha256-dcehUe3DD78QvedgUtdfJXmoxe&#43;CLK/ciR/c7AAaNvU="
+      crossorigin="anonymous"
+      media="screen"
+    />
+  
   
   <link
     rel="stylesheet"
@@ -85,7 +95,7 @@ Kayaker
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 
-  <link rel="canonical" href="/" />
+  <link rel="canonical" href="//localhost:1313/" />
 
   
   <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Daragh Hollman" />
@@ -119,17 +129,15 @@ Kayaker
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Home">
-  <meta name="twitter:description" content="Hey, I’m Daragh! 👋 I’m a recent graduate from University College Dublin with a first class honours in Physics with Astronomy and Space Science. I’m particularly interested in computing, and its applications to the field of space science. In September, I’m starting a PhD at the Dublin Institute for Advanced Studies with their Planetary Magnetospheres group to study Mercury’s magnetosphere.
-Take a look at what I’ve been working on!">
+  <meta name="twitter:description" content="Hey, I’m Daragh! 👋 I’m a recent graduate from University College Dublin with a first class honours in Physics with Astronomy and Space Science. I’m particularly interested in computing, and its applications to the field of space science.">
 
 
 
   
-  <meta property="og:url" content="/">
+  <meta property="og:url" content="//localhost:1313/">
   <meta property="og:site_name" content="Daragh Hollman">
   <meta property="og:title" content="Home">
-  <meta property="og:description" content="Hey, I’m Daragh! 👋 I’m a recent graduate from University College Dublin with a first class honours in Physics with Astronomy and Space Science. I’m particularly interested in computing, and its applications to the field of space science. In September, I’m starting a PhD at the Dublin Institute for Advanced Studies with their Planetary Magnetospheres group to study Mercury’s magnetosphere.
-Take a look at what I’ve been working on!">
+  <meta property="og:description" content="Hey, I’m Daragh! 👋 I’m a recent graduate from University College Dublin with a first class honours in Physics with Astronomy and Space Science. I’m particularly interested in computing, and its applications to the field of space science.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
@@ -141,9 +149,9 @@ Take a look at what I’ve been working on!">
       "@context": "http://schema.org",
       "@type": "WebSite",
       "name": "Daragh Hollman",
-      "url": "\/",
+      "url": "\/\/localhost:1313\/",
       "description": "Planetary Scientist\nProgrammer\nKayaker\n",
-      "thumbnailUrl": "\/",
+      "thumbnailUrl": "\/\/localhost:1313\/",
       "license": ""
     }
   </script>
@@ -171,7 +179,7 @@ Take a look at what I’ve been working on!">
       
         <div class="sidebar__introduction-title">
           <h1>
-            <a href="/">Daragh Hollman</a>
+            <a href="//localhost:1313/">Daragh Hollman</a>
           </h1>
         </div>
       
@@ -439,12 +447,46 @@ Take a look at what I’ve been working on!">
     >
       
       <div class="post__content">
+        <h3><a href="/projects/comet62p/">MY UNDERGRAD THESIS: COMET 62P/TSUCHINSHAN 1</a></h3>
+        
+          <p>Project Outline As part of my undergraduate degree, I completed a final project on a topic of my choosing. This involved:
+The preparation of a detailed literature review that addresses a question in modern astronomy...</p>
+        
+        <a href="/projects/comet62p/">Read more</a></div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Sun, Apr 28, 2024
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/science/">science</a><a class="tag" href="/tags/paper/">paper</a><a class="tag" href="/tags/comets/">comets</a><a class="tag" href="/tags/photometry/">photometry</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
         <h3><a href="/projects/jupt/">JUNO UNIVERSAL PLOTTING TOOL (JUPT)</a></h3>
         
-          <p>In the summer of 2023, together with the DIAS Planetary Magnetospheres group, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).
-This Juno data plotting tool (named JUPT - Juno Universal Plotting Tool) is the first public open access tool to make the comparison between data from different instruments - including a magnetometer (MAG), plasma (JADE), energetic particles (JEDI), and radio wave (WAVES) instruments.</p>
+          <p>In the summer of 2023, together with the DIAS Planetary Magnetospheres group, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter)...</p>
         
-        </div>
+        <a href="/projects/jupt/">Read more</a></div>
 
       
       <div class="post__footer">
@@ -477,10 +519,9 @@ This Juno data plotting tool (named JUPT - Juno Universal Plotting Tool) is the 
         <h3><a href="/projects/horizons-wallpaper/">HORIZONS WALLPAPER</a></h3>
         
           <p>A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.
-A sample output from the script. This script queries the API of NASA JPL’s Horizons System to obtain orbital positions in cartesian coorinates. These are then drawn to an image (flattened to the ecliptic) and saved as a png or jpg to a path of your chosing.
-The idea being: if you ran this script every day, and automatically updated your wallpaper, you would essentially have a live wallpaper of the positions of planets, asteroids, and spacecraft.</p>
+A sample output from the script. This script queries the API of NASA JPL’s Horizons System to obtain orbital positions in cartesian coorinates...</p>
         
-        </div>
+        <a href="/projects/horizons-wallpaper/">Read more</a></div>
 
       
       <div class="post__footer">

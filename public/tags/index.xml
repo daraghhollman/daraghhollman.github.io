@@ -2,17 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daragh Hollman</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Comets</title>
+      <link>//localhost:1313/tags/comets/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>//localhost:1313/tags/comets/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>//localhost:1313/tags/paper/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/paper/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Photometry</title>
+      <link>//localhost:1313/tags/photometry/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/photometry/</guid>
       
         <description></description>
       
@@ -20,10 +42,21 @@
     
     <item>
       <title>Science</title>
-      <link>/tags/science/</link>
+      <link>//localhost:1313/tags/science/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/science/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/tags/python/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/science/</guid>
+      <guid>//localhost:1313/tags/python/</guid>
       
         <description></description>
       
@@ -31,10 +64,10 @@
     
     <item>
       <title>Software</title>
-      <link>/tags/software/</link>
+      <link>//localhost:1313/tags/software/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software/</guid>
+      <guid>//localhost:1313/tags/software/</guid>
       
         <description></description>
       
@@ -42,10 +75,10 @@
     
     <item>
       <title>Art</title>
-      <link>/tags/art/</link>
+      <link>//localhost:1313/tags/art/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/art/</guid>
+      <guid>//localhost:1313/tags/art/</guid>
       
         <description></description>
       
