@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photometry on Daragh Hollman</title>
-    <link>//localhost:1313/tags/photometry/</link>
+    <link>/tags/photometry/</link>
     <description>Recent content in Photometry on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/photometry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/photometry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Undergrad Thesis: Comet 62P/Tsuchinshan 1</title>
-      <link>//localhost:1313/projects/comet62p/</link>
+      <link>/projects/comet62p/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/comet62p/</guid>
+      <guid>/projects/comet62p/</guid>
       
         <description>Project Outline As part of my undergraduate degree, I completed a final project on a topic of my choosing. This involved:
 The preparation of a detailed literature review that addresses a question in modern astronomy.</description>

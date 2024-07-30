@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art on Daragh Hollman</title>
-    <link>//localhost:1313/tags/art/</link>
+    <link>/tags/art/</link>
     <description>Recent content in Art on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Horizons Wallpaper</title>
-      <link>//localhost:1313/projects/horizons-wallpaper/</link>
+      <link>/projects/horizons-wallpaper/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/horizons-wallpaper/</guid>
+      <guid>/projects/horizons-wallpaper/</guid>
       
         <description>A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.
 A sample output from the script. This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates.</description>

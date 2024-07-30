@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on Daragh Hollman</title>
-    <link>//localhost:1313/tags/science/</link>
+    <link>/tags/science/</link>
     <description>Recent content in Science on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Undergrad Thesis: Comet 62P/Tsuchinshan 1</title>
-      <link>//localhost:1313/projects/comet62p/</link>
+      <link>/projects/comet62p/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/comet62p/</guid>
+      <guid>/projects/comet62p/</guid>
       
         <description>Project Outline As part of my undergraduate degree, I completed a final project on a topic of my choosing. This involved:
 The preparation of a detailed literature review that addresses a question in modern astronomy.</description>
@@ -21,10 +21,10 @@ The preparation of a detailed literature review that addresses a question in mod
     
     <item>
       <title>Juno Universal Plotting Tool (JUPT)</title>
-      <link>//localhost:1313/projects/jupt/</link>
+      <link>/projects/jupt/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/jupt/</guid>
+      <guid>/projects/jupt/</guid>
       
         <description>In the summer of 2023, together with the DIAS Planetary Magnetospheres group, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).</description>
       

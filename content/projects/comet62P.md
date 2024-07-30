@@ -18,24 +18,11 @@ As part of my undergraduate degree, I completed a final project on a topic of my
 
 {{< img src=/images/comet62P.jpg caption="Comet 62P/Tsuchinshan 1, a beautiful photo by Adam Block (https://www.adamblockphotos.com/comet-62p-tsuchinshan-2024-01-17.html) taken on 17th January 2024, just two months prior to my observations!" >}}
 
-## My Project
-
 My final paper was entitled: "Comet 62P/Tsuchinshan 1: A photometric investigation of an evolving dust production rate and
-other cometary properties at small heliocentric distances post-perihelion". While a rather specific project, it took a considerable amount of time to determine what exactly I wanted to investigate.
+other cometary properties at small heliocentric distances post-perihelion". While a rather specific project, it took a considerable amount of time to determine what exactly I wanted to investigate. The extensive research involved in reviewing the current literature and discovering current areas of research and methods led me towards dust emission of comets. This led me to more science questions relating to dust colour, dust composition, and comet radius.
 
-### Literature Review
-It all started with the literature review, where I investigated the current literature on comets. I hadn't originally wanted to study comets; My first idea was to find a suitable topic in planetary science. I had just finished my internship with the DIAS Planetary Magnetospheres group and was somewhat inspired. Unfortunately, with the 1.23m telescope at Calar Alto, there wasn't a suitable science goal and I had to look elsewhere. I thought the next best thing would be to study something in the solar system - comets!
+## Final Paper
 
-...
-
-### Data Analysis Review
-
-### Observing Proposal
-
-### Practical Observations
-
-### Final Paper
-
-My final paper can be read in full below. If you wish to know any further details, please do not hesitate to [contact me](mailto:dhollman@cp.dias.ie).
+My final paper can be read in full below. If you wish to know any further details, please do not hesitate to [contact me](mailto:dhollman@cp.dias.ie). This has been written in full by myself alone, prior to external review. I received an A+ grade on this paper.
 
 {{< pdf src=/documents/comet62P_paper.pdf width=80% height=1000 class=pdf >}}
