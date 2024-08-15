@@ -1,10 +1,15 @@
 +++
 title = 'Gallery'
+toc = true
 +++
 
 A collection of some of the photos I've taken. I don't have a camera at the moment so primarily use my phone (a Samsung Galaxy A52) to take pictures, although, I have had the opportunity to borrow nicer cameras. If I have done so, I will put the camera used, and the relevant settings in the caption.
 
 ## 2024
+
+### August
+
+{{< img src=/photos/busy-bee.jpg caption="2024-08-15 : Busy Bee! Sunflowers for St. Francis Hospice, https://www.sfh.ie/sunflower-day/. Sony ILCE-7M3, 75 mm, f/4.5, 1/350s, ISO 100." >}}
 
 ### May
 
