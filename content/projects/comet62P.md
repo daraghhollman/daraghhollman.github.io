@@ -21,6 +21,9 @@ As part of my undergraduate degree, I completed a final project on a topic of my
 My final paper was entitled: "Comet 62P/Tsuchinshan 1: A photometric investigation of an evolving dust production rate and
 other cometary properties at small heliocentric distances post-perihelion". While a rather specific project, it took a considerable amount of time to determine what exactly I wanted to investigate. The extensive research involved in reviewing the current literature and discovering current areas of research and methods led me towards dust emission of comets. This led me to more science questions relating to dust colour, dust composition, and comet radius.
 
+## Awards
+My paper and project was proposed by the assessors to represent the University College Dublin School of Physics for the Institute of Physics (IoP) Earnshaw medal (https://www.iop.org/about/awards/iop-ireland-awards/earnshaw-award).
+
 ## Final Paper
 
 My final paper can be read in full below. If you wish to know any further details, please do not hesitate to [contact me](mailto:dhollman@cp.dias.ie). This has been written in full by myself alone, prior to external review. I received an A+ grade on this paper.
