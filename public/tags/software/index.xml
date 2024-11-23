@@ -2,31 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Daragh Hollman</title>
-    <link>/tags/software/</link>
+    <link>//localhost:1313/tags/software/</link>
     <description>Recent content in Software on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juno Universal Plotting Tool (JUPT)</title>
-      <link>/projects/jupt/</link>
+      <link>//localhost:1313/projects/jupt/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/jupt/</guid>
+      <guid>//localhost:1313/projects/jupt/</guid>
       
-        <description>In the summer of 2023, together with the DIAS Planetary Magnetospheres group, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).</description>
+        <description>&lt;p&gt;In the summer of 2023, together with the &lt;a href=&#34;https://www.dias.ie/cosmicphysics/astrophysics/astro-research/astro-planetary-magnetospheres/&#34;&gt;DIAS Planetary Magnetospheres group&lt;/a&gt;, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Horizons Wallpaper</title>
-      <link>/projects/horizons-wallpaper/</link>
+      <link>//localhost:1313/projects/horizons-wallpaper/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/horizons-wallpaper/</guid>
+      <guid>//localhost:1313/projects/horizons-wallpaper/</guid>
       
-        <description>A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.
-A sample output from the script. This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates.</description>
+        <description>&lt;p&gt;A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.&lt;/p&gt;
+
+&lt;figure class=&#34;gallery-img&#34;&gt;&lt;img src=&#34;//localhost:1313/images/horizons-wallpaper.jpg&#34;&gt;&lt;figcaption class=&#34;gallery-img-caption&#34;&gt;A sample output from the script.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates. These are then drawn to an image (flattened to the ecliptic) and saved as a png or jpg to a path of your chosing.&lt;/p&gt;</description>
       
     </item>
     

@@ -48,12 +48,6 @@ customCss = ["css/custom.css"]
     url = "/"
 
     [[menu.main]]
-    name = "About"
-    weight = 200
-    identifier = "about"
-    url = "/about/"
-
-    [[menu.main]]
     name = "Projects"
     weight = 300
     identifier = "projects"
@@ -76,6 +70,13 @@ customCss = ["css/custom.css"]
         weight = 420
         identifier = "abstracts"
         url = "/abstracts/"
+        parent = "research"
+
+        [[menu.main]]
+        name = "Presentations"
+        weight = 420
+        identifier = "presentations"
+        url = "/presentations/"
         parent = "research"
 
     [[menu.main]]

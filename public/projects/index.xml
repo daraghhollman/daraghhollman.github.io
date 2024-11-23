@@ -2,43 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Daragh Hollman</title>
-    <link>/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in Projects on Daragh Hollman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Undergrad Thesis: Comet 62P/Tsuchinshan 1</title>
-      <link>/projects/comet62p/</link>
+      <link>//localhost:1313/projects/comet62p/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/projects/comet62p/</guid>
+      <guid>//localhost:1313/projects/comet62p/</guid>
       
-        <description>Project Outline As part of my undergraduate degree, I completed a final project on a topic of my choosing. This involved:
-The preparation of a detailed literature review that addresses a question in modern astronomy.</description>
+        <description>&lt;h2 id=&#34;project-outline&#34;&gt;Project Outline&lt;/h2&gt;
+&lt;p&gt;As part of my undergraduate degree, I completed a final project on a topic of my choosing. This involved:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The preparation of a detailed &lt;strong&gt;literature review&lt;/strong&gt; that addresses a question in modern astronomy.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;data analysis review&lt;/strong&gt; outlining the methods required to convert raw data into science results.&lt;/li&gt;
+&lt;li&gt;An &lt;strong&gt;observing proposal&lt;/strong&gt; detailing precisely the targets of study along with the total observing time required.&lt;/li&gt;
+&lt;li&gt;5 nights of &lt;strong&gt;practical observations&lt;/strong&gt; at the Calar Alto Observatory in Almeria, Spain, using their 1.23m telescope.&lt;/li&gt;
+&lt;li&gt;An in depth &lt;strong&gt;analysis and interpretation&lt;/strong&gt; of the data acquired.&lt;/li&gt;
+&lt;li&gt;The writing of a &lt;strong&gt;research journal styled paper&lt;/strong&gt; and an &lt;strong&gt;oral presentation&lt;/strong&gt; of this paper.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&#34;gallery-img&#34;&gt;&lt;img src=&#34;//localhost:1313/images/comet62P.jpg&#34;&gt;&lt;figcaption class=&#34;gallery-img-caption&#34;&gt;Comet 62P/Tsuchinshan 1, a beautiful photo by Adam Block (https://www.adamblockphotos.com/comet-62p-tsuchinshan-2024-01-17.html) taken on 17th January 2024, just two months prior to my observations!&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;My final paper was entitled: &amp;ldquo;Comet 62P/Tsuchinshan 1: A photometric investigation of an evolving dust production rate and
+other cometary properties at small heliocentric distances post-perihelion&amp;rdquo;. While a rather specific project, it took a considerable amount of time to determine what exactly I wanted to investigate. The extensive research involved in reviewing the current literature and discovering current areas of research and methods led me towards dust emission of comets. This led me to more science questions relating to dust colour, dust composition, and comet radius.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Juno Universal Plotting Tool (JUPT)</title>
-      <link>/projects/jupt/</link>
+      <link>//localhost:1313/projects/jupt/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/jupt/</guid>
+      <guid>//localhost:1313/projects/jupt/</guid>
       
-        <description>In the summer of 2023, together with the DIAS Planetary Magnetospheres group, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).</description>
+        <description>&lt;p&gt;In the summer of 2023, together with the &lt;a href=&#34;https://www.dias.ie/cosmicphysics/astrophysics/astro-research/astro-planetary-magnetospheres/&#34;&gt;DIAS Planetary Magnetospheres group&lt;/a&gt;, I led the development and release of a new plotting tool for data from the Juno spacecraft (currently in orbit around Jupiter).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Horizons Wallpaper</title>
-      <link>/projects/horizons-wallpaper/</link>
+      <link>//localhost:1313/projects/horizons-wallpaper/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/horizons-wallpaper/</guid>
+      <guid>//localhost:1313/projects/horizons-wallpaper/</guid>
       
-        <description>A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.
-A sample output from the script. This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates.</description>
+        <description>&lt;p&gt;A python script to plot a live wallpaper of the solar system from the orbital information of specified objects.&lt;/p&gt;
+
+&lt;figure class=&#34;gallery-img&#34;&gt;&lt;img src=&#34;//localhost:1313/images/horizons-wallpaper.jpg&#34;&gt;&lt;figcaption class=&#34;gallery-img-caption&#34;&gt;A sample output from the script.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;This script queries the API of NASA JPL&amp;rsquo;s Horizons System to obtain orbital positions in cartesian coorinates. These are then drawn to an image (flattened to the ecliptic) and saved as a png or jpg to a path of your chosing.&lt;/p&gt;</description>
       
     </item>
     
