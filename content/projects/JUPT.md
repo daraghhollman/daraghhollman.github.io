@@ -12,4 +12,5 @@ JUPT is incredibly useful for those studying Jupiter's space environment as it m
 
 JUPT is published on [Github](https://github.com/daraghhollman/JUPT) and [Zenodo](https://zenodo.org/record/8262477), with documentation published with [ReadTheDocs](https://jupt.readthedocs.io/en/latest/).
 
-{{< img src=/images/jupt.png caption="A sample output of the tool" >}}
+![JUPT IMG](/images/jupt.png)
+*A sample output of the tool*
