@@ -5,8 +5,6 @@ tags = ["science", "paper", "comets", "photometry"]
 toc = true
 +++
 
-## Project Outline
-
 As part of my undergraduate degree, I completed a final project on a topic of my choosing. This involved:
 
 * The preparation of a detailed **literature review** that addresses a question in modern astronomy.
