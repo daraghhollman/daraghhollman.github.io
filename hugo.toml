@@ -20,24 +20,19 @@ readMore = true
 customCss = ["css/custom.css"]
 
     [[params.socialIcons]]
-    icon = "fab fa-github"
-    title = "Github"
-    url = "https://github.com/daraghhollman/"
-
-    [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "Linkedin"
     url = "https://www.linkedin.com/in/daraghhollman/"
 
     [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "Github"
+    url = "https://github.com/daraghhollman/"
+
+    [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "e-mail"
     url = "mailto:dhollman@cp.dias.ie"
-
-    [[params.socialIcons]]
-    icon = "fab fa-instagram"
-    title = "Instagram"
-    url = "https://www.instagram.com/daragh_hollman/"
 
 [menu]
 
