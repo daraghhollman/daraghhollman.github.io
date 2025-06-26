@@ -23,6 +23,7 @@ title = "what have i been up to?"
 
   [entries.post_list]
   limit = 5
+  section = "posts"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
