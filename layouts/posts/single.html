@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<article>
+
+    <h1>{{ .Title }}</h1>
+
+    {{ with .Params.tags }}
+        <p class="post-tags">
+            [
+        {{ $total := len . }}
+        {{ range $i, $tag := . }}
+        <a href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">{{ $tag }}</a>{{ if ne (add $i 1) $total }} -{{ end }}
+        {{ end }}
+            ]
+        </p>
+    {{ end }}
+
+    {{ if .Params.toc }}
+        <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
+            {{ .TableOfContents }}
+        </aside>
+    {{ end }}
+
+    {{ .Content }}
+</article>
+{{ end }}

@@ -1,0 +1,28 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "who am i?"
+  url = "about"
+
+  [[entries.entries]]
+  title = "my publications"
+  url = "publications"
+
+  [[entries.entries]]
+  title = "my presentations"
+  url = "presentations"
+
+  [[entries.entries]]
+  title = "download my cv"
+  url = "cv"
+
+
+[[entries]]
+title = "what have i been up to?"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"

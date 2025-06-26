@@ -1,0 +1,16 @@
+{{ $date := .Get "date" | time }}
+{{ $day := $date.Format "2" }}
+
+{{ $suffix := "th" }}
+{{ if or (eq $day "1") (eq $day "21") (eq $day "31") }}
+  {{ $suffix = "st" }}
+{{ else if or (eq $day "2") (eq $day "22") }}
+  {{ $suffix = "nd" }}
+{{ else if or (eq $day "3") (eq $day "23") }}
+  {{ $suffix = "rd" }}
+{{ end }}
+
+{{ $formattedDate := printf "%s%s %s %s" $day $suffix ($date.Format "January") ($date.Format "2006") }}
+
+<span><strong>{{ $formattedDate }}</strong></span> &nbsp;-&nbsp; <em>{{ .Get "title" }}</em><br>
+<span>{{ .Get "where" }}</span>
