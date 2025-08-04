@@ -5,11 +5,14 @@ title = 'my publications'
 +++
 
 ## articles
-**first author**
+**first author:**
 
-Classifying MESSENGER Magnetospheric Boundary Crossings Using a Random Forest Model, in prep., 2025
 
-**collaborations**
+Identifying MESSENGER Magnetospheric Boundary Crossings Using a Random Forest
+Region Classifier, in review, (2025)
+[preprint](https://essopenarchive.org/users/867402/articles/1320325-identifying-messenger-magnetospheric-boundary-crossings-using-a-random-forest-region-classifier)
+
+**collaborations:**
 
 Bowers, C. F., Jackman, C. M., Jia, X., Slavin, J. A., Saur, J., Holmberg, M.
 K. G., et al. (2025). MESSENGER observations of a possible Alfvén wing at

@@ -13,11 +13,6 @@ title = "info"
   title = "my presentations"
   url = "presentations"
 
-  [[entries.entries]]
-  title = "download my cv"
-  url = "cv"
-
-
 [[entries]]
 title = "what have i been up to?"
 
