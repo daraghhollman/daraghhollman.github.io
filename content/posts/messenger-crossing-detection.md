@@ -1,7 +1,8 @@
 +++
 date = '2025-08-04T16:19:30+01:00'
-draft = true
+draft = false
 title = 'Automatic detection of magnetic boundary crossings at Mercury'
+mathjax = true
 +++
 
 Recently I submitted my first 1st author publication to the [Journal of
@@ -38,7 +39,7 @@ draws lines from the north pole to the south pole (of the magnet)!
 ### The Magnetosphere
 If any of the planets existed in isolation, this magnetic field would stretch
 out indefinitely (though getting weaker with distance). However, the Sun sends
-out a stream of charged particles called the solar wind in all directions which
+out a stream of charged particles in all directions called the solar wind which
 interact with the magnetic field of the planet. This interaction forms a large
 and dynamic magnetic bubble (known as a magnetosphere) which stretches
 downstream like a windsock. We label two boundaries of this bubble:
@@ -76,19 +77,49 @@ times.
 
 ## Our Aim
 
-Crossings of magnetospheric boundaries for any planet are visually
-identifiable in data from spacecraft magnetometers (instruments which measure
-the magnetic field strength and direction at the position of the spacecraft) as
-well as other instruments. However, due to the extreme variability of Mercury's
-boundaries, we often observe multiple crossings as the boundary moves back and
-forth over the spacecraft. Because of this, we can observe multiple crossings
-of the boundaries over timescales of seconds, which make visual identifications
+Crossings of magnetospheric boundaries for any planet are visually identifiable
+in data from spacecraft magnetometers (instruments which measure the magnetic
+field strength and direction at the position of the spacecraft) as well as
+other instruments.
+
+However, due to the extreme variability of Mercury's boundaries, we often
+observe multiple crossings as the boundary moves back and forth over the
+spacecraft. Because of this, we can observe multiple crossings of the
+boundaries over timescales of seconds, which make visual identifications
 difficult, time-consuming, and tedious. As a result, previous identifications
-of boundaries for the MESSENGER mission instead describe a range of time - an
-interval - in which there were crossings. These are hugely varied, ranging from
-near instantaneous (for times where only one crossing is present) to several
-hours long. Our aim was to develop a new automated method to detect each
-individual crossing for the entire MESSENGER mission.
+of boundaries for the MESSENGER mission [e.g. [Philpott et al.
+(2020)](https://doi.org/10.1029/2019ja027544)] instead describe a range of time
+\- an interval - in which there were one or more crossings. These are hugely
+varied, ranging from near instantaneous (for times where only one crossing is
+present) to several hours long.
+
+Our aim was to develop a new automated method to detect each individual
+crossing for the entire MESSENGER mission.
+
+## Data
+
+We inspect magnetic field data from spacecraft in the form of **time series**.
+The magnetic field is a **vector**, it has both a strength and a direction in
+3D space. We break this vector down into 3 components, their strength in
+particular directions: $B_x$ (pointing towards the Sun), $B_y$ (pointing
+towards Mercury's dusk), and $B_z$ (points along the axis Mercury spins). We
+find the magntiude (total strength) of this vector in the following way: $$ |B|
+= \sqrt{{B_x}^2 + {B_y}^2 + {B_z}^2} $$ For each datapoint in time (up to 20
+per second for these data), MESSENGER records this magnetic field vector.
+
+Examples of these data are shown below. The lines moving from left to right
+show the components described above as they change in time. The black line is
+the total field strenght, while the x, y, and z components are in <span
+    style="color:#D55E00">**red**</span>, <span
+    style="color:#009E73">**green**</span>, and <span
+    style="color:#0072B2">**blue**</span> repsectively. Vertical dashed lines
+denote the boundary crossing intervals labelled by [Philpott et al.
+(2020)](https://doi.org/10.1029/2019ja027544). Both examples (a) and (b)
+contain **outbound bow shock** (labelled with BS OUT) crossing intervals
+meaning MESSENGER is moving away from the planet, from the magnetosheath into
+the solar wind.
+
+![Example bow shock data](/images/example_bow_shock_data.webp)
 
 ## Methods
 

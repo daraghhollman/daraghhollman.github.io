@@ -2,3 +2,7 @@ baseURL = 'https://daraghhollman.github.io'
 languageCode = 'en-gb'
 title = 'daraghhollman.github.io'
 theme = "nostyleplease"
+
+[markup]
+  [markup.goldmark]
+    renderer.unsafe = true
