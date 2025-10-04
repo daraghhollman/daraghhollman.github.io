@@ -1,7 +1,7 @@
 +++
 date = '2025-06-26T22:24:56+01:00'
 draft = false
-title = 'who am i?'
+title = 'Who am I?'
 +++
 
 I’m a PhD student at Dunsink Observatory, Dublin Institute for Advanced

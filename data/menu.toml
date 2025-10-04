@@ -1,20 +1,20 @@
 [[entries]]
-title = "info"
+title = "Info"
 
   [[entries.entries]]
-  title = "who am i?"
+  title = "Who am I?"
   url = "about"
 
   [[entries.entries]]
-  title = "my publications"
+  title = "My Publications"
   url = "publications"
 
   [[entries.entries]]
-  title = "my presentations"
+  title = "My Presentations"
   url = "presentations"
 
 [[entries]]
-title = "what have i been up to?"
+title = "Take a look at what I've been doing:"
 
   [entries.post_list]
   limit = 5

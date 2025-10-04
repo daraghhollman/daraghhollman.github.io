@@ -1,6 +1,6 @@
 baseURL = 'https://daraghhollman.github.io'
 languageCode = 'en-gb'
-title = 'daraghhollman.github.io'
+title = 'My name is Daragh Hollman'
 theme = "nostyleplease"
 
 [markup]
