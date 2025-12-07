@@ -1,6 +1,6 @@
 +++
 date = '2025-08-04T16:19:30+01:00'
-draft = false
+draft = true
 title = 'Automatic detection of magnetic boundary crossings at Mercury'
 mathjax = true
 +++
