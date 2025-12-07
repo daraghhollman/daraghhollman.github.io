@@ -4,6 +4,10 @@ draft = false
 title = 'Presentations'
 +++
 
+{{< presentation date="2025-10-09" title="(Seminar) How to creatively account for lack of an upstream monitor" where="Observatoire de Paris" >}}
+
+{{< presentation date="2025-10-07" title="(Seminar) How to creatively account for lack of an upstream monitor" where="Laboratoire de Physique des Plasmas" >}}
+
 {{< presentation date="2025-09-24" title="Identifying MESSENGER Magnetospheric Boundary Crossings Using a Random Forest Region Classifier" where="3rd Machine Learning in Heliophysics Meeting" >}}
 
 .
