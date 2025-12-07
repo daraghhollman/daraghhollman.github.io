@@ -6,12 +6,16 @@ title = "Info"
   url = "about"
 
   [[entries.entries]]
-  title = "My Publications"
+  title = "Publications"
   url = "publications"
 
   [[entries.entries]]
-  title = "My Presentations"
+  title = "Presentations"
   url = "presentations"
+
+  [[entries.entries]]
+  title = "Awards"
+  url = "awards"
 
 [[entries]]
 title = "Take a look at what I've been doing:"
