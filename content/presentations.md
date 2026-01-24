@@ -1,8 +1,16 @@
 +++
-date = '2025-06-26T22:35:08+01:00'
+date = '2026-01-24T22:27:00'
 draft = false
 title = 'Presentations'
 +++
+
+{{< presentation date="2025-12-12" title="Statistical Magnetospheric Region Prediction for BepiColombo based on MESSENGER observations" where="RAS Specialist discussion meeting: State-of-the-Art of Mercury’s space environment in preparation for the nominal phase of the BepiColombo mission, London" >}}
+
+.
+
+{{< presentation date="2025-12-11" title="Supervised Machine Learning at Mercury & Statistical Magnetospheric Region Prediction for BepiColombo" where="BepiColombo SWT Meeting, Leicester" >}}
+
+.
 
 {{< presentation date="2025-10-09" title="(Seminar) How to creatively account for lack of an upstream monitor" where="Observatoire de Paris" >}}
 
