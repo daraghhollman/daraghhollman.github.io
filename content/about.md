@@ -1,5 +1,5 @@
 +++
-date = '2025-06-26T22:24:56+01:00'
+date = '2026-01-24T22:20:00'
 draft = false
 title = 'Who am I?'
 +++
@@ -13,3 +13,5 @@ focuses on Mercury’s magnetospheric boundaries - the bow shock and magnetopaus
 and the automated detection of boundary crossings via simple machine learning
 methods. I’m a Government of Ireland Postgraduate Scholar, fully funded by
 Research Ireland.
+
+I like to spend my free time in the outdoors! I'm a hiker, and a whitewater kayaker.
