@@ -4,6 +4,12 @@ draft = false
 title = 'My Publications'
 +++
 
+<style>
+.w {
+    max-width: 100pc
+}
+</style>
+
 ## Journal Articles
 **First author:**\
 Hollman, D. M., Jackman, C. M., Domijan, K., Bowers, C. F., Walker, S. J., Rutala, M. J., & Fogg, A. R. (2026).\
