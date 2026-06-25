@@ -3,6 +3,8 @@ languageCode = 'en-gb'
 title = 'My name is Daragh Hollman'
 theme = "nostyleplease"
 
+buildFuture = true
+
 [markup]
   [markup.goldmark]
     renderer.unsafe = true

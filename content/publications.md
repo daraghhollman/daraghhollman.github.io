@@ -1,5 +1,5 @@
 +++
-date = '2026-01-24T22:15:00'
+date = '2026-06-25T22:43:24'
 draft = false
 title = 'My Publications'
 +++
@@ -10,25 +10,23 @@ title = 'My Publications'
 }
 </style>
 
-## Journal Articles
-**First author:**\
-Hollman, D. M., Jackman, C. M., Domijan, K., Bowers, C. F., Walker, S. J., Rutala, M. J., & Fogg, A. R. (2026).\
-_Identifying MESSENGER magnetospheric boundary crossings using a random forest region classifier_.\
-Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000921.\
-[https://doi.org/10.1029/2025JH000921]()
+005 | _Mercury's Eccentric Orbit as a Driver of Significant “Seasonal” Change in Upstream Solar Wind Forcing_  
+R. M. Dewey, C. M. Jackman, M. Rojo, L. Z. Hadid, B. Sánchez‐Cano, C. F. Bowers, J. M. Raines, S. T. Lepri, S. Livi, J. T. Coburn, S. Aizawa, Y. J. Rivera, W. Sun, J. Zhao, J. A. Slavin, D. Heyner, **D. M. Hollman**, A. D. Shane  
+(2026), [https://doi.org/10.1029/2026gl123323]()
 
-**Collaborations:**\
-Bowers C.F., Jackman C.M., Jia X., Hadid L.Z., Sun W., Hayes L.A., Dewey R.M., Burkholder B., **Hollman D.M.**, Cervantes S., Huybrighs H.L.F, Rutala M.J. (2025)\
-_Mercury's Altered Magnetosphere During a Sub‐Alfvénic ICME Event: MESSENGER Observations and Inferred Asymmetric Alfvén Wing Formation From Global MHD Simulations._\
-Journal of Geophysical Research: Space Physics, 130, 11, e2025JA034248.\
-[https://doi.org/10.1029/2025JA034248]()
+004 | _Identifying MESSENGER Magnetospheric Boundary Crossings Using a Random Forest Region Classifier_  
+**D. M. Hollman**, C. M. Jackman, K. Domijan, C. F. Bowers, S. J. Walker, M. J. Rutala, A. R. Fogg  
+(2026), [https://doi.org/10.1029/2025JH000921]()
 
-Bowers C.F., Jackman C.M., Jia X., Slavin J.A., Saur J., Holmberg M.K.G. et al. Dewey R.M, Heyner D., Elekes F., Hadid L.Z., Lavraud B., Wang Y., Huybrighs H.L.F, Rutala M.J., Fogg A.R., Lee S.B., **Hollman D.M.** (2025)\
-_MESSENGER observations of a possible Alfvén wing at Mercury driven by a low Alfvénic Mach number ICME._\
-Journal of Geophysical Research: Space Physics, 130, 3, e2024JA033619.\
-[https://doi.org/10.1029/2024JA033619]()
+003 | _Mercury's Altered Magnetosphere During a Sub‐Alfvénic ICME Event: MESSENGER Observations and Inferred Asymmetric Alfvén Wing Formation From Global MHD Simulations_  
+C. F. Bowers, C. M. Jackman, X. Jia, L. Z. Hadid, W. Sun, L. A. Hayes, R. M. Dewey, B. Burkholder, **D. M. Hollman**, S. Cervantes, H. L. F. Huybrighs, M. J. Rutala  
+(2025), [https://doi.org/10.1029/2025JA034248]()
 
-## Software
-Hollman, D.M., Jackman, C.M., Louis, C.K., Rutala, M.J., Huybrighs, H.L.F., & McEntee, S.C. (2024).
-Juno Universal Plotting Tool v1.1.2. Zenodo.
-[https://doi.org/10.5281/zenodo.8223818]()
+002 | _MESSENGER Observations of a Possible Alfvén Wing at Mercury Driven by a Low Alfvénic Mach Number Interplanetary Coronal Mass Ejection_  
+C. F. Bowers, C. M. Jackman, X. Jia, J. A. Slavin, J. Saur, M. K. G. Holmberg, R. M. Dewey, D. Heyner, F. Elekes, L. Z. Hadid, B. Lavraud, Y. Wang, H. L. F. Huybrighs, M. J. Rutala, A. R. Fogg, S. B. Lee, **D. M. Hollman**  
+(2025), [https://doi.org/10.1029/2024ja033619]()
+
+001 | _Juno Universal Plotting Tool_  
+**D. Hollman**, C. Jackman, C. Louis, M. Rutala, H. Huybrighs, S. McEntee  
+(2024), [https://doi.org/10.5281/ZENODO.8223818]()
+
