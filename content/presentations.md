@@ -1,8 +1,12 @@
 +++
-date = '2026-01-24T22:27:00'
+date = '2026-07-23T00:00:00'
 draft = false
 title = 'Presentations'
 +++
+
+{{< presentation date="2026-06-19" title="Creating a virtual solar wind monitor at Mercury" where="Solar Wind 17, Bath, UK." >}}
+
+.
 
 {{< presentation date="2025-12-12" title="Statistical Magnetospheric Region Prediction for BepiColombo based on MESSENGER observations" where="RAS Specialist discussion meeting: State-of-the-Art of Mercury’s space environment in preparation for the nominal phase of the BepiColombo mission, London" >}}
 
