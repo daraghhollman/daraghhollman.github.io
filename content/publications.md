@@ -1,5 +1,5 @@
 +++
-date = '2026-06-25T22:43:24'
+date = '2026-08-03T18:48:59'
 draft = false
 title = 'My Publications'
 +++
@@ -9,6 +9,10 @@ title = 'My Publications'
     max-width: 100pc
 }
 </style>
+
+006 | _Low Frequency Extensions of Cyclotron Maser Instability‐Generated Radio Emission: A Statistical View From Cassini at Saturn_  
+C. M. Jackman, A. R. Fogg, S. W. H. Cowley, G. Provan, H. Adamski, N. M. Besch, **D. M. Hollman**, S. Walker, M. J. Rutala, L. Lamy, C. K. Louis, E. P. O’Dwyer  
+(2026), [https://doi.org/10.1029/2026JA035653]()
 
 005 | _Mercury's Eccentric Orbit as a Driver of Significant “Seasonal” Change in Upstream Solar Wind Forcing_  
 R. M. Dewey, C. M. Jackman, M. Rojo, L. Z. Hadid, B. Sánchez‐Cano, C. F. Bowers, J. M. Raines, S. T. Lepri, S. Livi, J. T. Coburn, S. Aizawa, Y. J. Rivera, W. Sun, J. Zhao, J. A. Slavin, D. Heyner, **D. M. Hollman**, A. D. Shane  
