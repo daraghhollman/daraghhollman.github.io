@@ -198,7 +198,7 @@ def format_entry(entry: ORCIDEntry) -> str:
 
     lines.append(", ".join(author_names))
 
-    lines.append(f"({entry.year}), [{entry.doi}]()")
+    lines.append(f"({entry.year}), [{entry.doi}]({entry.doi})")
 
     return "  \n".join(lines)
 
