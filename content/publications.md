@@ -1,5 +1,5 @@
 +++
-date = '2026-08-03T21:55:43'
+date = '2026-08-26T09:37:21'
 draft = false
 title = 'My Publications'
 +++
@@ -9,6 +9,10 @@ title = 'My Publications'
     max-width: 100pc
 }
 </style>
+
+007 | _Future trajectories of the BepiColombo MPO and Mio spacecraft: a quantitative tool for magnetospheric region prediction_  
+**D. M. Hollman**, C. M. Jackman, K. Domijan, C. F. Bowers, L. Z. Hadid, D. Heyner  
+(2026), [https://doi.org/10.1186/s40623-026-02515-7](https://doi.org/10.1186/s40623-026-02515-7)
 
 006 | _Low Frequency Extensions of Cyclotron Maser Instability‐Generated Radio Emission: A Statistical View From Cassini at Saturn_  
 C. M. Jackman, A. R. Fogg, S. W. H. Cowley, G. Provan, H. Adamski, N. M. Besch, **D. M. Hollman**, S. Walker, M. J. Rutala, L. Lamy, C. K. Louis, E. P. O’Dwyer  
